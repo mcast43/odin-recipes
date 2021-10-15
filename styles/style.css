@@ -1,0 +1,19 @@
+.recipelinks {
+    font-size: 22px;
+    font-weight: bold;
+    color:#2727b3;
+    background-color: chartreuse;
+}
+
+a {
+    text-decoration: none;
+}
+
+body {
+    background-color:lightgoldenrodyellow;
+}
+
+h1 {
+    font-style: italic;
+    font-size: 64px;
+}
